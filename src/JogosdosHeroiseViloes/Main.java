@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Heroi l[] = new Heroi[3];
         l[0] = new Heroi("Super Man","Pesado", 120, 0, 0, 0);
-        l[1] = new Heroi("Batmam", "Médio", 90, 0, 0,0);
+        l[1] = new Heroi("Batmam Dark", "Médio", 90, 0, 0,0);
         l[2] = new Heroi("Homem Aranha", "Leve",80, 0, 0,0);
 
         Vilao o[] = new Vilao[3];
